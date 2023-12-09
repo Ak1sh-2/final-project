@@ -11,7 +11,7 @@ To run this project, you need to have Python and pip installed on your system.
 
 2.Usage
 After installation, run the Flask web application with the following command:
-python app2.py
+python app.py
 
 Open your web browser and go to http://127.0.0.1:5000/ to access the landing page.
 
